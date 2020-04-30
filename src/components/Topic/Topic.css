@@ -1,0 +1,28 @@
+.enroll-btn {
+    background-color: #EC3E73;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 6px;
+}
+
+.module-text {
+    color: #4390D8;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.topic-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+
+.col-md-4.enroll.card {
+    border: none;
+}

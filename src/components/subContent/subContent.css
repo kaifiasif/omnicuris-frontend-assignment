@@ -1,0 +1,22 @@
+.desc-heading {
+    border-bottom: 4px solid #4390d8;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 4px;
+}
+
+.desc-content {
+    text-align: left;
+    font-size: 15px;
+}
+
+.accredited-by {}
+
+.accredited-by-heading {
+    font-size: 16px;
+    font-weight: 400;
+    border-bottom: 4px solid #4390d8;
+    margin-top: 10px;
+    display: inline-block;
+}
