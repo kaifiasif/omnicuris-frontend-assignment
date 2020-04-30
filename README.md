@@ -1,6 +1,6 @@
 ## Omnicuris Front End Assignment
 
-### [Live Site](https://omnicuris.netlify.app//)
+### [Live Site](https://omnicuris.netlify.app/)
 
 ## Introduction
 
