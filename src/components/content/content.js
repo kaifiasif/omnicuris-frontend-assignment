@@ -26,7 +26,6 @@ class content extends Component {
     this.setState({ url: url, showModalFlag: false });
   };
   render() {
-    console.log('Content Props', this.props);
     let { moduleData, moduleListData } = this.props;
     let { url } = this.state;
     return (

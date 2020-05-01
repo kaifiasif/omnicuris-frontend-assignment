@@ -25,7 +25,7 @@ class expertsPannel extends Component {
                 {expertsData &&
                   expertsData.map((value, index) => {
                     return (
-                      <div key={value}>
+                      <div className="col-md-12" key={value}>
                         <img
                           src={value.profilePic}
                           className="experts-image"

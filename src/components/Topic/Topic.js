@@ -11,7 +11,7 @@ class Topic extends Component {
             <div className="card">
               <p className="topic-text">
                 {' '}
-                {moduleListData.name + '' + ':'}{' '}
+                {moduleListData.name }{' '}
                 <span className="module-text"> Introduction </span>
               </p>
             </div>
